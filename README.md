@@ -18,7 +18,12 @@
     open a cmd window and install modules using pip install -r requirements.txt
     WalSo Nitro Gen**
 
-**__🪪 Created By__**
-**Discord : walso_ot_
-Alias WalSo**
+**Created by** : 
+|*Information:* | *Response:* |
+|--------------|------------ |
+| *Made By :*   |        walso_ot_    |
+| *User :*      |.𝐊𝐲𝐮 𝐖𝐚𝐥𝐒𝐨 Alias walso_ot_ |
+| *Server :*   | https://discord.gg/xasJC8aXYf |
+
+
                             
